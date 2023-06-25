@@ -17,17 +17,17 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 ## Experience
 
 #### Research
-> **[[H2X Lab]]**, Boston University
+> **[[notes/H2X Lab]]**, Boston University
 > _Research Assistant_
 > #MachineLearning #AutonomousNavigation #ComputerVision #Python 
 
-> **[[DEPEND Lab]]**, Boston University
+> **[[notes/DEPEND Lab]]**, Boston University
 > _Research Assistant_
 > #NeuralNetworks #AISafety #Cpp #Simulation #Robotics 
 ---
 
 #### Internships
-> **[[CRG Solutions]]**
+> **[[notes/CRG Solutions]]**
 > _Project Intern_
 > #NLP #MachineLearning #Python 
 
