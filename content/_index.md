@@ -10,7 +10,7 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 #### Latest
 
 >[!tip] [[notes/Gradient Descent Visualizer]]
-> #Visualization #MachineLearning #Python #CI/CD #Github
+> `#Visualization` `#MachineLearning` `#Python` `#CI/CD` `#Github`
 
 ---
 
@@ -31,7 +31,7 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 > _Project Intern_
 > #NLP #MachineLearning #Python 
 
-> **[[Edutech Learning Solutions]]**
+> **[[notes/Edutech Learning Solutions]]**
 > _R&D Intern_
 > #ROS #Robotics #Cpp #Simulation 
 
@@ -42,7 +42,7 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 > [[notes/Gradient Descent Visualizer]]
 #Visualization #MachineLearning #Python #CI/CD #Github
 
-> [[Light Chaser]]
+> [[notes/Light Chaser]]
 > #ROS #Robotics #Package #Python #Github
 
 ---
