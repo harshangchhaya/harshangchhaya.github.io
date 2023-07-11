@@ -5,13 +5,14 @@ enableToc: false
 
 ## About Me
 
-Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion for software engineering, machine learning, embedded systems, and robotics.
+Hi, I'm an Electrical and Computer Engineering graduate with a passion for software engineering, machine learning, embedded systems, and robotics.
 
 
 >[!tip] Latest
 > 
 >[[notes/Gradient Descent Visualizer]]
 >
+> [Try it out!](https://gradientdescentviz.up.railway.app)
 > `#Visualization` `#MachineLearning` `#Python` `#CI/CD` `#Github`
 
 ---
@@ -27,7 +28,7 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 > **[[notes/DEPEND Lab]]**, Boston University
 > _Research Assistant_
 > 
-> `#NeuralNetworks` `#AISafety` `#Cpp` `#Simulation` `#Robotics` 
+> `#NeuralNetworks` `#AISafety` `#Cpp` `#Simulation` `#Robotics` `#MATLAB` `#Simulink`
 ---
 
 #### Internships
@@ -54,3 +55,15 @@ Hi, I'm Harshang, an Electrical and Computer Engineering graduate with a passion
 > `#ROS` `#Robotics` `#Package` `#Python` `#Github`
 
 ---
+### Certifications & Awards
+- Multiple Game Development certifications can be found on my [linkedin](https://www.linkedin.com/in/harshang-chhaya/)
+- Winner of TechStars Startup Weekend at Gandhinagar 2018
+
+---
+#### Misc
+- Video Games by me (requires Unity Engine to play):
+	- [Box Shooter](https://drive.google.com/drive/folders/1T7kfBNSx8HW0mhPoxw08uKOUAX8IKJVw?usp=sharing)
+	- [Roller Madness](https://drive.google.com/drive/folders/1qlbPRdyx2y3OOQZHcibefibSv-oKuym6?usp=sharing)
+
+
+
