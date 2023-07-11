@@ -13,6 +13,7 @@ Hi, I'm an Electrical and Computer Engineering graduate with a passion for softw
 >[[notes/Gradient Descent Visualizer]]
 >
 > [Try it out!](https://gradientdescentviz.up.railway.app)
+> 
 > `#Visualization` `#MachineLearning` `#Python` `#CI/CD` `#Github`
 
 ---
