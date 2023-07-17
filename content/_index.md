@@ -9,12 +9,10 @@ Hi, I'm an Electrical and Computer Engineering graduate with a passion for softw
 
 
 >[!tip] Latest
-> 
->[[notes/Gradient Descent Visualizer]]
->
-> [Try it out!](https://gradientdescentviz.up.railway.app)
-> 
-> `#Visualization` `#MachineLearning` `#Python` `#CI/CD` `#Github`
+> 1. [[notes/AR Drawing app]]
+> 2. [[notes/Gradient Descent Visualizer]]
+> 	- [Try it out!](https://gradientdescentviz.up.railway.app)
+
 
 ---
 
@@ -47,6 +45,10 @@ Hi, I'm an Electrical and Computer Engineering graduate with a passion for softw
 
 ### Projects
 
+> [[notes/AR Drawing app]]
+> 
+> `#Swift` `#AR` `#ComputerGraphics` `#iOS` `#UI/UX`
+
 > [[notes/Gradient Descent Visualizer]]
 > 
 > `#Visualization` `#MachineLearning` `#Python` `#CI/CD` `#Github`
@@ -62,9 +64,14 @@ Hi, I'm an Electrical and Computer Engineering graduate with a passion for softw
 
 ---
 #### Misc
+- Teaching Assistant Roles at Boston University
+	- Introduction to Engineering
+	- Computer Networks
+	- Electronics Lab
 - Video Games by me (requires Unity Engine to play):
 	- [Box Shooter](https://drive.google.com/drive/folders/1T7kfBNSx8HW0mhPoxw08uKOUAX8IKJVw?usp=sharing)
 	- [Roller Madness](https://drive.google.com/drive/folders/1qlbPRdyx2y3OOQZHcibefibSv-oKuym6?usp=sharing)
+
 
 
 
