@@ -5,6 +5,8 @@ enableToc: false
 
 ## About Me
 
+![me|300](notes/images/IMG_me.jpeg)
+
 Hi, I'm an Electrical and Computer Engineering graduate with a passion for software engineering, machine learning, embedded systems, and robotics.
 
 
