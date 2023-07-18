@@ -1,4 +1,4 @@
-|![First](images/IMG_1.jpeg)|![Second](images/IMG_2.jpeg)|![Third](images/IMG_3.jpeg)|
+|![First](notes/images/IMG_1.jpeg)|![Second](notes/images/IMG_2.jpeg)|![Third](notes/images/IMG_3.jpeg)|
 |---|---|---|
 
 _Usage and Installation instruction available on [Github](https://github.com/harshangchhaya/Draw_in_3D)_
