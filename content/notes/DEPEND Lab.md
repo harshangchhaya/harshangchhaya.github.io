@@ -5,7 +5,7 @@ This project focused on enhancing the real-time safety of Neural Network Control
 [presentation](https://drive.google.com/file/d/15f7_kAIYSM2Mgcq2GIGpbGMT3R1YTs6e/view?usp=sharing)
 
 
-|![Sim\|450](images/img_5.png)|
+|![Sim\|450](notes/images/img_5.png)|
 |---|
 |This is a simulation of the Safety Verification of Neural Network Controlled Dubin's car model|
 In the image above:

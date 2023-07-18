@@ -1,3 +1,6 @@
+|![First](images/IMG_1.jpeg)|![Second](images/IMG_2.jpeg)|![Third](images/IMG_3.jpeg)|
+|---|---|---|
+
 _Usage and Installation instruction available on [Github](https://github.com/harshangchhaya/Draw_in_3D)_
 
 The AR Drawing app is a user-friendly iOS application that allows users to unleash their creativity by drawing in Augmented Reality (AR) using a simple and intuitive user interface. The app combines the power of ARKit, SceneKit, UIKit, and Core Graphics to provide an immersive drawing experience.
